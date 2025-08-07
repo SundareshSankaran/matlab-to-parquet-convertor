@@ -1,0 +1,5 @@
+scipy      # For loading .mat files (scipy.io.loadmat)
+pandas     # For working with dataframes
+numpy      # For numerical operations (often used with .mat data)
+pyarrow   # For efficient data handling and storage
+duckdb     # For database operations and data manipulation

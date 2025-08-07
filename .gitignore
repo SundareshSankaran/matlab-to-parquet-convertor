@@ -1,0 +1,8 @@
+/*/.ipynb_checkpoints
+/build/.*
+/build/*.ipynb 
+/mat_files/
+/output_parquet/
+.DS_Store
+*.pyc
+*.pyo
