@@ -16,7 +16,7 @@ This project provides a script (along with variants) to convert MATLAB `.mat` da
 
 
 - **/build/prompts**  
-  Stores markdown files documenting the prompts and results generated during the development process.   The `/build/prompts` subdirectory is relevant since a major portion of this repo was constructed with code generation utilities (GPT 4.0 through GitHub Copilot) and prompts employed for thus are saved for future reference.
+  Stores markdown files documenting the prompts and results generated during the development process.   The `/build/prompts` subdirectory is relevant since a major portion of this repo was constructed with code generation utilities (GPT 4.1 through GitHub Copilot) and prompts employed for thus are saved for future reference.
 
 - **/mat_files**  
   Directory where input MATLAB `.mat` files should be placed. After successful processing, files are moved to a `done` subfolder.
